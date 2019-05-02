@@ -9,6 +9,7 @@ git clone https://github.com/MrMassachusetts/sepw/
 START:
 
 cd sepw
+
 python3 sepw.py
 
 USAGE:
