@@ -1,4 +1,5 @@
 # sepw
+Social Engineering Password-Generator
 A passwordlist generator, which uses information about a person
 
 INSTALLING:
